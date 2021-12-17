@@ -1,13 +1,13 @@
 # NeoVim Dotfiles 사용방법
 ### 사전설치
-neovim 설치: https://github.com/neovim/neovim
+neovim 설치: https://github.com/neovim/neovim  
 Node.js 설치:
 ```
 $ curl -sL install-node.vercel.app/lts | bash
 ```
-NerdFont 설치: https://github.com/ryanoasis/nerd-fonts
-Rg설치: https://github.com/BurntSushi/ripgrep
-fd설치: https://github.com/sharkdp/fd
+NerdFont 설치: https://github.com/ryanoasis/nerd-fonts  
+Rg설치: https://github.com/BurntSushi/ripgrep  
+fd설치: https://github.com/sharkdp/fd  
 
 ### 설치과정
 
@@ -35,4 +35,4 @@ plug.vim 안에서
 ```
 이외언어의 LSP설치는 https://github.com/neoclide/coc.nvim/wiki/Language-servers 참고
 
-###이후 nvim을 켜주면 사용할 수 있다.
+### 이후 nvim을 켜주면 사용할 수 있다.
