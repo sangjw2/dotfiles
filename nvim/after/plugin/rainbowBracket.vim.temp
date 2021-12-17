@@ -1,0 +1,5 @@
+let g:rainbow_active = 1
+
+
+autocmd!
+autocmd VimEnter * RainbowLoad
