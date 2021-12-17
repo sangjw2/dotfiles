@@ -21,7 +21,7 @@ endif
 
 let g:one_monokai_termcolors = 256 " does not support 16 color term right now.
 
-set background=dark
+"set background=dark
 hi clear
 
 if exists("syntax_on")
