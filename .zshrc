@@ -5,6 +5,7 @@ if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 alias vi='nvim'
+alias ll="ls -al"
 
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
