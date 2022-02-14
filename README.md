@@ -3,7 +3,7 @@
 neovim 설치: https://github.com/neovim/neovim  
 Node.js 설치:
 ```
-$ curl -sL install-node.vercel.app/lts | bash
+$ brew install node
 ```
 NerdFont 설치: https://github.com/ryanoasis/nerd-fonts  
 Rg설치: https://github.com/BurntSushi/ripgrep  
