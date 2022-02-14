@@ -15,6 +15,8 @@ fd설치: https://github.com/sharkdp/fd
 $ cd ~
 $ git clone https://github.com/sangjw2/dotfiles.git
 $ ln -sf ~/dotfiles/nvim ~/.config/nvim
+$ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 $ nvim ~/dotfiles/nvim/plug.vim
 ```
 
