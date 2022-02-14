@@ -13,7 +13,7 @@ fd설치: https://github.com/sharkdp/fd
 
 ```
 $ cd ~
-$ git clone https://github.com/sangjw2/dotfiles.git dotfiles
+$ git clone https://github.com/sangjw2/dotfiles.git
 $ ln -sf ~/dotfiles/nvim ~/.config/nvim
 $ nvim ~/dotfiles/nvim/plug.vim
 ```
